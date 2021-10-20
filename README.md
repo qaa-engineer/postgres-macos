@@ -2,7 +2,6 @@
 
 <div itemprop="description" class="post_text">
       
-          <p>Для установки PostgreSQL в Linux воспользуйтесь <a href="https://900913.ru/2021/08/12/install-postgresql-and-create-user-and-database/">этой заметкой</a>.</p>
 <h2>Установить PostgreSQL</h2>
 <pre><code class="hljs language-undefined">brew install postgresql
 </code></pre>
