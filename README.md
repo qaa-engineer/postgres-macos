@@ -1,2 +1,3 @@
-# postgres-macos
-Полезные команды Postgres на MacOs
+# Полезные команды Postgres на macOs
+
+##### pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
