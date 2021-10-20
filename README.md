@@ -64,6 +64,3 @@ DB_NAME<span class="hljs-operator">=</span># <span class="hljs-keyword">GRANT</s
 <span class="hljs-keyword">GRANT</span>
 DB_NAME<span class="hljs-operator">=</span># \q
 </code></pre>
-<p>– как вариант.</p>
-        
-    </div>
